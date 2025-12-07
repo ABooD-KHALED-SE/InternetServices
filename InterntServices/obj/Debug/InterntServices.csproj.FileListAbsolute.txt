@@ -1,0 +1,17 @@
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\bin\Debug\InterntServices.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\bin\Debug\InterntServices.exe
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\bin\Debug\InterntServices.pdb
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.exe
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.pdb
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.mainPage.resources
+c:\users\asus\documents\visual studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.Bundies.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.loginForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.transfire.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.internetBundies.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.maxBundies.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.meesageAndCallsBundies.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.soaBundies.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\InterntServices\InterntServices\obj\Debug\InterntServices.overBundies.resources
